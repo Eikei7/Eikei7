@@ -34,3 +34,4 @@ Other interests of mine include:
 - retro video games
 - technology in general
 - watching movies and tv series
+- spending time with my family
