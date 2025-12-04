@@ -19,10 +19,10 @@ Former music teacher turned Frontend developer!
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Eikei7&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Eikei7&show_icons=true)
 
 ## Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eikei7&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eikei7)
 
 ## How to reach me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/erik-karlsson7)
